@@ -22,7 +22,7 @@ The default release build is heavily optimized, using native target-cpu instruct
 ## Starting
 Setup your credentials inside .credentials.toml by copying credentials.example.toml
 
-Then join a voice channel in discord, type ~join in a text channel the bot can access. The teamspeak side should already be connected based on your config.
+Then join a voice channel in discord, type /join_voice in a text channel the bot can access. The teamspeak side should already be connected based on your config.
 
 ## Debugging
 
